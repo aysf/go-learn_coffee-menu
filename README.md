@@ -9,3 +9,6 @@ practicing how to use keyboard input in coffee menu app
 
 ## Screenshot
 ![Screenshot of Coffee Menu Apps](https://github.com/aysf/go-learn_coffee-menu/blob/master/preview.PNG)
+
+## Issue
+* How to handle other keyboard input beside the option ?
